@@ -18,7 +18,6 @@ Vantagens :
 ## Azures Functions x  AWs 
 - AWS mais recursos (Aws lambda , Googleecloud Functions , OpenWhisk... ) 
 - Azure mais facil de se trabalhar serverless 
-
 - Serverless é muito usado para disparar triggers quando algo acontece 
 - Também para criar APIs 
 - listNotes ();
