@@ -30,7 +30,7 @@ Vantagens :
 - Extensão do vccode : Azure Functions 
 ## Criando uma API 
 - CRUD de produtos 
-- cria uma pasta c:\Users\escr\azure_func
+- cria uma pasta No H:\DIO
 - func init 
 - opção 2 node 
 - opção 1 javascript 
